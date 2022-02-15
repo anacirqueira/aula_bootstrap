@@ -1,0 +1,22 @@
+body {
+  font: 20px bold, small-caps;
+}
+
+.navbar {
+  background-color: #BB8FCE;
+}
+
+.quem-somos {
+  background-color: #5DADE2;
+  color:azure;
+}
+
+.margin{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.parceiros{
+  background-color: #34495E;
+  color: azure;
+}
